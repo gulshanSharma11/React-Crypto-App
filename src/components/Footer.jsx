@@ -25,9 +25,7 @@ const Footer = () => {
           </Text>
         </VStack>
 
-        <VStack>
-          
-        </VStack>
+        
       </Stack>
     </Box>
   );
